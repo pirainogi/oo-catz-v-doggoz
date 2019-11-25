@@ -3,6 +3,8 @@
 
   ![Alt Text](https://media3.giphy.com/media/XxMTS8OOwl59C/giphy.gif)
 
+  ### Before you start make sure you run `bundle install`
+
 ### Domain: 
 1. Dogs Model, which has the following attributes:
     - name:string
