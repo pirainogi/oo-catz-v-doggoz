@@ -11,13 +11,13 @@
     - breed:string
     - skill:string ("Bite" = Rock, "Tail Swipe" = Paper, "Scratch" = Scissors)
     - age:integer
-    - good_boi:boolean
+    - good_boi:boolean (this should default to true)
 2. Cats Model, which has the following attributes:
     - name:string
     - breed:string
     - skill:string ("Bite" = Rock, "Tail Swipe" = Paper, "Scratch" = Scissors)
     - age:integer
-    - furball:boolean
+    - furball:boolean (this should default to false)
 3. Battles Model, which has the following attributes:
    - ??? (Think about what a battle needs)
    - ??? (Think about what a battle needs)
